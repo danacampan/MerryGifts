@@ -1,6 +1,7 @@
 # MerryGifts
 
-MerryGifts is a small mobile application I did that can be of help when you can't decide what gifts to go for when it comes to the special people in your life
+MerryGifts is a small mobile application I did that can be of help when you can't decide what gifts to go for when it comes to the special people in your life.
+
 In this app I used Stack navigation to navigate between screens.
 - SplashScreen: 
 ![Screenshot_20231217_114439_Expo Go](https://github.com/danacampan/MerryGifts/assets/118621995/d936505c-dc8d-4e0f-918f-dcb82928ae1c)
